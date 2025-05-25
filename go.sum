@@ -1,2 +1,4 @@
 github.com/jepsen-io/maelstrom/demo/go v0.0.0-20250204203845-8263d1dd2b7a h1:Y4T2rLnDS94/hFCdQYxb97SJObNcMJk6M1lJg3qCGZQ=
 github.com/jepsen-io/maelstrom/demo/go v0.0.0-20250204203845-8263d1dd2b7a/go.mod h1:i6aVIs5AIOOaQF1lAisBm7DDeWM1Iopf+26UxjagsCU=
+k8s.io/utils v0.0.0-20250502105355-0f33e8f1c979 h1:jgJW5IePPXLGB8e/1wvd0Ich9QE97RvvF3a8J3fP/Lg=
+k8s.io/utils v0.0.0-20250502105355-0f33e8f1c979/go.mod h1:OLgZIPagt7ERELqWJFomSt595RzquPNLL48iOWgYOg0=
