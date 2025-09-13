@@ -7,7 +7,7 @@
 *.dll
 *.so
 *.dylib
-raft-node
+
 
 # Test binary, built with `go test -c`
 *.test
@@ -25,7 +25,11 @@ go.work.sum
 # env file
 .env
 
-maelstrom/
+maelstrom/doc
+maelstrom/lib
+maelstrom/demo/**
+!maelstrom/demo/go/
+!maelstrom/demo/go/**
 store/
 
 .DS_Store
